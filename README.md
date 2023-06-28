@@ -9,4 +9,5 @@ Implementation of the Q-Learning (Model-free RL algorithm) and Dyna-Q (Model-bas
 
 | File | Description |
 | ----:| :-----------|
-|**__QLearner.py__** | Implementation of the Q-Learning and Dyna-Q  |
+|**__QLearner.py__** | Contains the code for the Q-Learner (and Dyna-Q) implementation  |
+|**__testqlearner.py__** | test cases for navigation problems  |
